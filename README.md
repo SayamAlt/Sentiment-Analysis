@@ -30,7 +30,7 @@ The dataset contains about 163K tweets along with their respective sentiment lab
   <li>LightGBM</li>
 </ul>
 
-## Acknowledgments
+## Acknowledgements
 
 This Dataset was created with the help of Tweepy Apis. 
 
