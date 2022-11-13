@@ -23,8 +23,11 @@ The dataset contains about 163K tweets along with their respective sentiment lab
   <li>Pandas</li>
   <li>Seaborn</li>
   <li>Matplotlib</li>
-  <li>Keras</li>
-  <li>Tensorflow</li>
+  <li>NLTK</li>
+  <li>SymSpellPy</li>
+  <li>CatBoost</li>
+  <li>Scikit-learn</li>
+  <li>LightGBM</li>
 </ul>
 
 ## Acknowledgments
